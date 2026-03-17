@@ -5,8 +5,10 @@ Although no copyright restrictions are imposed on the use of these materials, us
 1. CMQT.ipynb contains analytical derivations and numerical simulation routines corresponding to the manuscript
 “Coherence-mediated quantum thermometry in a hybrid circuit-QED architecture”,
 available at: https://doi.org/10.48550/arXiv.2510.16318
+Journal reference: Phys. Rev. B 113, 094512 (2026)
+DOI: https://doi.org/10.1103/sj7j-1s6b
 
-2. TBQC.ipynb contains analytical derivations and numerical simulation routines corresponding to the manuscript
+3. TBQC.ipynb contains analytical derivations and numerical simulation routines corresponding to the manuscript
 “Two-tooth bosonic quantum comb for temporal-correlation sensing”,
 available at: https://doi.org/10.48550/arXiv.2601.10916
 
